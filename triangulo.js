@@ -1,4 +1,4 @@
-var i
+var i = 1
 var l = ''
 function piramide(alto) {
     for(i = 1; i <= alto; i++){
@@ -6,5 +6,4 @@ function piramide(alto) {
         console.log(l)
     }
 }
-
 console.log(piramide(7))
