@@ -7,4 +7,4 @@ const piramide = function(alto) {
         console.log(l)
     }
 }
-console.log(piramide(7))
+console.log(piramide)
